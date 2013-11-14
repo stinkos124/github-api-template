@@ -1,0 +1,12 @@
+{
+  "name": "Json test",
+  "version": "0.0.0",
+  "description": "Google DevArt Submission Template",
+  "main": "SUBMISSION.md",
+  "keywords": [
+    "markdown",
+    "template"
+  ],
+  "author": "London Droids",
+  "license": "MIT"
+}
