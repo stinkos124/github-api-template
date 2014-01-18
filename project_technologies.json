@@ -1,9 +1,9 @@
 {
 	"technologies": {
-		"apis": [],
-		"platforms": [],
-		"libraries": []
+		"apis": ["discogs", "twitter"],
+		"platforms": ["web"],
+		"libraries": ["cinder"]
 	},
-	"themes": []
+	"themes": ["audio"]
 }
 
