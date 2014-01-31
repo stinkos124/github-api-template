@@ -2,7 +2,7 @@
 	"technologies": {
 		"apis": ["discogs", "twitter"],
 		"platforms": ["web"],
-		"libraries": ["cinder"]
+		"toolkits": ["cinder"]
 	},
 	"themes": ["audio"]
 }
